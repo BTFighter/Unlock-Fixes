@@ -19,5 +19,5 @@ Place MorphiesLaw folder in %localappdata%.
 
 
 ## Credits
-RaT - Dumped DataTables in order to idenfity items.
+RaT - Dumped DataTables in order to idenfity items.  
 Rex - Did 90% of the work.
